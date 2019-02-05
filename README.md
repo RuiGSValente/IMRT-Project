@@ -1,7 +1,5 @@
 ### IMRT-Project
 
-The present work deals with an optimization problem related to the treatment of tumor forms, known as intensity modulated radiotherapy. This treatment method is based on the incidence of X-ray radiation, which aims to destroy malignant cells, whilst preserving, as far as possible, the surrounding vital organs. This text reviews this type of treatment and its planning with the goal of making its application effective.
-
 The codes presented in this link support the thesis delivered on July 5, 2018 
 to the Department of Mathematics of the University of Coimbra under the title: 
 "Computational methods for beam angle optimization in intensity modulated  
